@@ -69,7 +69,7 @@ not straightforward.
 Translations
 ------------
 
-[logo](https://i.imgur.com/KZJpiLg.jpg)
+
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
 Translations are converted to Amolecoin periodically.
@@ -79,3 +79,6 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
+
+
+https://i.imgur.com/KZJpiLg.jpg
