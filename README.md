@@ -81,4 +81,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 
-<img src="https://i.imgur.com/KZJpiLg.jpg" height=500px width=500px>
+<img src="https://i.imgur.com/KZJpiLg.jpg" height=300px width=300px>
