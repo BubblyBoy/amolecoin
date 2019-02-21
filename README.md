@@ -88,5 +88,6 @@ Installation
 -------------
 
 <img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115357.png" height=300px  width=400px >     <img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115434.png" heigt=300px width=400px>    
-<img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115520.png" heigt=300px width=400px>
+<img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115520.png" heigt=300px width=400px>      <img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115650.png" heigt=300px width=400px>
+<img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115720.png" heigt=300px width=400px>      <img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115830.png" heigt=300px width=400px>
 
