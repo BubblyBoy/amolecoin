@@ -82,3 +82,7 @@ pull from Transifex would automatically overwrite them again.
 
 
 <img src="https://i.imgur.com/KZJpiLg.jpg" height=300px width=300px>
+
+
+Installation
+-------------
