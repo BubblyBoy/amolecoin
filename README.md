@@ -87,5 +87,6 @@ pull from Transifex would automatically overwrite them again.
 Installation
 -------------
 
-step 1. <img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115357.png" height=200px  width=300px >step 2. <img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115434.png" heigt=200px width=300px>
+<img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115357.png" height=250px  width=350px >
+<img src="https://github.com/BubblyBoy/amolecoin/blob/master/Assets/ice_screenshot_20190220-115434.png" heigt=250px width=350px>
 
